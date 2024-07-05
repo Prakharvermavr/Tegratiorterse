@@ -1,0 +1,11 @@
+1. Install Required Libraries
+sudo apt update
+sudo apt install python3 python3-pip
+sudo pip3 install scapy
+
+
+2. Create project structure
+mkdir NetworkAnalyzer
+cd NetworkAnalyzer
+touch analyzer.py
+
